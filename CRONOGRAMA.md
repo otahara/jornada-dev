@@ -4,6 +4,8 @@
 **Ordem em cada assunto:** primeiro problemas de lógica e de matemática; depois casos reais, que precisam fazer sentido na vida real.
 **Projeto:** a escolher. Ele vai crescer junto com as aulas, e a coluna do projeto é preenchida quando ele for escolhido.
 
+**Reforços:** quando um assunto precisa de mais treino, entra um dia de reforço logo depois dele (por exemplo, 6.1 e 6.2). Ele é acrescentado aqui quando acontece e não muda a numeração dos outros dias.
+
 Legenda: ✅ concluído · 🟡 em andamento · ⚪ não iniciado
 
 ## Bloco 1: Sintaxe e Lógica (dias 1 a 14)
