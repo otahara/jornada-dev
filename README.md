@@ -26,7 +26,7 @@ Documentar em público é o meu compromisso com a constância. O histórico most
 
 ## Progresso
 
-**Etapa 1:** ▓▓░░░░░░░░ 23% (7 de 31 dias)
+**Etapa 1:** ▓▓▓░░░░░░░ 29% (9 de 31 dias)
 
 | Etapa | Conteúdo | Status |
 |---|---|---|
@@ -42,6 +42,8 @@ Documentar em público é o meu compromisso com a constância. O histórico most
 | 5 | Contas | [dia05](aulas/dia05-contas/resumo.md) |
 | 6 | Comparações e E/OU/NÃO no código | [dia06](aulas/dia06-comparacoes/resumo.md) |
 | 7 | `if` / `else` | [dia07](aulas/dia07-if-else/resumo.md) |
+| 8 | `else if` e decisão dentro de decisão | [dia08](aulas/dia08-else-if/resumo.md) |
+| 9 | Ler o que a pessoa digita | [dia09](aulas/dia09-entrada/resumo.md) |
 
 O plano completo, dia a dia, está no [cronograma](CRONOGRAMA.md).
 

@@ -1,7 +1,5 @@
 # Dia 8: `else if` e decisão dentro de decisão
 
-> Em andamento: falta um exercício parecido com o `Voto.java`, para eu fazer sozinho.
-
 ## O que aprendi
 
 ### A ordem do `else if`

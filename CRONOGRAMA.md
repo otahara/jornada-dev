@@ -19,8 +19,8 @@ Legenda: ✅ concluído · 🟡 em andamento · ⚪ não iniciado
 | 5 | ✅ | contas: operadores, divisão inteira e resto | [dia05](aulas/dia05-contas/resumo.md) | |
 | 6 | ✅ | comparações e E/OU/NÃO no código | [dia06](aulas/dia06-comparacoes/resumo.md) | |
 | 7 | ✅ | `if` / `else` com problemas matemáticos | [dia07](aulas/dia07-if-else/resumo.md) | |
-| 8 | 🟡 | `else if` e decisão dentro de decisão, primeiros casos reais | [dia08](aulas/dia08-else-if/resumo.md) | |
-| 9 | ⚪ | ler o que a pessoa digita | | |
+| 8 | ✅ | `else if` e decisão dentro de decisão, primeiros casos reais | [dia08](aulas/dia08-else-if/resumo.md) | |
+| 9 | ✅ | ler o que a pessoa digita | [dia09](aulas/dia09-entrada/resumo.md) | |
 | 10 | ⚪ | repetição com `while` | | |
 | 11 | ⚪ | repetição com `for` | | |
 | 12 | ⚪ | arrays | | |
