@@ -21,6 +21,7 @@ Legenda: ✅ concluído · 🟡 em andamento · ⚪ não iniciado
 | 7 | ✅ | `if` / `else` com problemas matemáticos | [dia07](aulas/dia07-if-else/resumo.md) | |
 | 8 | ✅ | `else if` e decisão dentro de decisão, primeiros casos reais | [dia08](aulas/dia08-else-if/resumo.md) | |
 | 9 | ✅ | ler o que a pessoa digita | [dia09](aulas/dia09-entrada/resumo.md) | |
+| 9.1 | 🟡 | reforço: lógica e matemática, depois casos reais, com tudo até o dia 9 | [dia09.1](aulas/dia09-1-reforco/resumo.md) | |
 | 10 | ⚪ | repetição com `while` | | |
 | 11 | ⚪ | repetição com `for` | | |
 | 12 | ⚪ | arrays | | |
